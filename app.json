@@ -1,0 +1,17 @@
+{
+  "name": "beloo",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "http://www.aks.eticoxs.com/"
+    }
+  ]
+}
